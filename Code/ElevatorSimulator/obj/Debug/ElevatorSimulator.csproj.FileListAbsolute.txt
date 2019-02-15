@@ -1,0 +1,18 @@
+c:\users\symetryn\documents\visual studio 2012\Projects\ElevatorSimulator\ElevatorSimulator\bin\Debug\ElevatorSimulator.exe.config
+c:\users\symetryn\documents\visual studio 2012\Projects\ElevatorSimulator\ElevatorSimulator\bin\Debug\ElevatorSimulator.exe
+c:\users\symetryn\documents\visual studio 2012\Projects\ElevatorSimulator\ElevatorSimulator\bin\Debug\ElevatorSimulator.pdb
+c:\users\symetryn\documents\visual studio 2012\Projects\ElevatorSimulator\ElevatorSimulator\obj\Debug\ElevatorSimulator.csprojResolveAssemblyReference.cache
+c:\users\symetryn\documents\visual studio 2012\Projects\ElevatorSimulator\ElevatorSimulator\obj\Debug\ElevatorSimulator.Properties.Resources.resources
+c:\users\symetryn\documents\visual studio 2012\Projects\ElevatorSimulator\ElevatorSimulator\obj\Debug\ElevatorSimulator.csproj.GenerateResource.Cache
+c:\users\symetryn\documents\visual studio 2012\Projects\ElevatorSimulator\ElevatorSimulator\obj\Debug\ElevatorSimulator.exe
+c:\users\symetryn\documents\visual studio 2012\Projects\ElevatorSimulator\ElevatorSimulator\obj\Debug\ElevatorSimulator.pdb
+C:\Users\Symetryn\Documents\Visual Studio 2012\Projects\ElevatorSimulator\ElevatorSimulator\obj\Debug\ElevatorSimulator.ElevatorForm.resources
+C:\Users\Symetryn\Desktop\ElevatorSimulator\ElevatorSimulator\bin\Debug\ElevatorSimulator.exe.config
+C:\Users\Symetryn\Desktop\ElevatorSimulator\ElevatorSimulator\obj\Debug\ElevatorSimulator.exe
+C:\Users\Symetryn\Desktop\ElevatorSimulator\ElevatorSimulator\obj\Debug\ElevatorSimulator.pdb
+C:\Users\Symetryn\Desktop\ElevatorSimulator\ElevatorSimulator\bin\Debug\ElevatorSimulator.exe
+C:\Users\Symetryn\Desktop\ElevatorSimulator\ElevatorSimulator\bin\Debug\ElevatorSimulator.pdb
+C:\Users\Symetryn\Desktop\ElevatorSimulator\ElevatorSimulator\obj\Debug\ElevatorSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Symetryn\Desktop\ElevatorSimulator\ElevatorSimulator\obj\Debug\ElevatorSimulator.ElevatorForm.resources
+C:\Users\Symetryn\Desktop\ElevatorSimulator\ElevatorSimulator\obj\Debug\ElevatorSimulator.Properties.Resources.resources
+C:\Users\Symetryn\Desktop\ElevatorSimulator\ElevatorSimulator\obj\Debug\ElevatorSimulator.csproj.GenerateResource.Cache
